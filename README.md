@@ -10,7 +10,7 @@ Este Workshop tiene como objetivo introducirlos en el mundo de ReactJS, vamos a 
 
 ## Tabla de Contenidos
 
-### - [Teoría](#teoria)
+### - Teoría
 
 1. [React](#react)
 
@@ -20,13 +20,13 @@ Este Workshop tiene como objetivo introducirlos en el mundo de ReactJS, vamos a 
 
 4. [Create React App](#create-react-app)
 
-### - [Práctica](#practica)
+### - Práctica
 
-1. [React Components](#react-components)
-    1. [React.Component](https://facebook.github.io/react/docs/react-component.html)
-    2. [State & Props](https://facebook.github.io/react/docs/react-component.html#instance-properties)
-    3. [Lifecycle](https://facebook.github.io/react/docs/react-component.html#the-component-lifecycle)
-    4. [Events](https://facebook.github.io/react/docs/handling-events.html)
+1. React Components
+    1. React.Component
+    2. State & Props
+    3. Lifecycle
+    4. Events
 
 ---
 
